@@ -62,3 +62,7 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 ## 🏛️ License
 
 MIT
+
+## Other components (internal post linking etc.)
+
+See the original author's [blog](https://johndalesandro.com/blog/): 
