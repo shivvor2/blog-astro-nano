@@ -1,7 +1,7 @@
 ---
 company: "CincoData"
 role: "Machine Learning Engineer (Part time)"
-dateStart: "30/04/2024"
+dateStart: "04/30/2024"
 dateEnd: "Current"
 ---
 

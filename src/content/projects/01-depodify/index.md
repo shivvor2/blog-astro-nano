@@ -1,7 +1,7 @@
 ---
 title: "Depodify (Media summarizer)"
 description: "Reverse NotebookLM"
-date: "25/01/25"
+date: "Jan 25 2025"
 repoURL: "https://github.com/shivvor2/summarize-media"
 ---
 

@@ -1,7 +1,7 @@
 ---
 company: "McDonalds"
 role: " \"AI intern\""
-dateStart: "25/11/2024"
+dateStart: "11/25/2024"
 dateEnd: "Current"
 ---
 
