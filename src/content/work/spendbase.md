@@ -1,5 +1,5 @@
 ---
-company: "McDonalds"
+company: "Spendbase"
 role: " \"AI intern\""
 dateStart: "11/25/2024"
 dateEnd: "Current"
